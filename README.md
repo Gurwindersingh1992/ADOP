@@ -8,4 +8,5 @@ Picture of the day
 5. Memory leak is handled.
 6. Core data is implemented for favourite entries.
 7. Dark Mode Suppport.
+8. APOD API triggered using start and end date. 
  
